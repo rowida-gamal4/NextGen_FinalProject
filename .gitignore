@@ -1,0 +1,16 @@
+# Original large dataset
+PS_20174392719_1491204439457_log.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# System files
+.DS_Store
